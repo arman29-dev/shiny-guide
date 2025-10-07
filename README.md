@@ -1,1 +1,1 @@
-# shiny-guide
+This is for earning badges.
